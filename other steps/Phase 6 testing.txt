@@ -1,0 +1,8 @@
+Errors
+Input issues :	System has input issues to verify whether this is a Name or a Index no.
+		Allows index no to be insert multiple times.
+
+Ui issues :	Only works as a small window when expand ,the buttons and dropdown won't expand.
+		
+Test Result
+While the primary functions Allocation and Remove works fine but data validation has issues. 

@@ -1,0 +1,10 @@
+Functional Requirements:
+
+The system shall allow users to select a specific bed from a dropdown menu.
+The system store students names and index numbers with a bed ID.
+The system prevent allocating a bed that is already occupied.
+
+Non-functional Requirements:
+
+The system must provide a modern and responsive user interface (using customtkinter).
+Data must saved even after the application is closed (using json storage).

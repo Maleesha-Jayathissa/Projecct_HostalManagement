@@ -1,0 +1,10 @@
+Problem :Manual hostel management often leads to data redundancy, double-booking of beds and difficulty in tracking real-time availability.
+
+
+Objectives :To develop a GUI-based Python application that allocate and remove students from specific hostel beds.
+
+
+Scope :The system allows for bed selection, student data entry (Name and Index) and persistent data storage using JSON.
+
+
+Assumptions and Constraints :It is assumed the hostel has 4 rooms with 2 bunk beds each. The system is constrained to a single-user standalone environment using Python and customtkinter.
